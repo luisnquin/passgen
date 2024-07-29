@@ -20,13 +20,11 @@ Default flags, password length 15 with symbols:
 
 Output > `J3x7_FF]E4HYd3.`
 
-
 Password length 30 without symbols:
 
 `passgen generate -l=30 -s=false`
 
 Output > `4bPkIAjshaoiJqowtY3qQqm5GNe6DD`
-
 
 ## Tests
 
@@ -37,7 +35,6 @@ Run the tests using
 or
 
 `go test -v ./...`
-
 
 ## Disclaimer
 

@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/pedr0rocha/password-generator-cli/password"
+	"github.com/luisnquin/passgen/password"
 )
 
 func main() {
